@@ -1,0 +1,4 @@
+These files will get you started in Keras for classification.  There are several areas that have code 
+commented out.  These lines are for plotting the performance of training epocs.  
+
+Data used is imported from Keras Iris, breast cancer and diabetes data sets
